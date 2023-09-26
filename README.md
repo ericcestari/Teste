@@ -1,2 +1,3 @@
-# teste
- primeiro repositorio do curso de git e github
+# Teste
+ Primeiro repositório do curso de Git e GitHub.
+ Testando o README.
